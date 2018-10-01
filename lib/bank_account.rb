@@ -32,4 +32,9 @@ class BankAccount
   end
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 797947957e676afcb975e933e1895b98040c6b97
 end
